@@ -1,0 +1,74 @@
+{
+    "1": {
+        "Al Bayt Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Gatorade": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    },
+    "2": {
+        "The emir Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Pasta": 25,
+            "Steak": 25
+        }
+    },
+    "3": {
+        "Ahmad Bin Ali Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    },
+    "4": {
+        "Al Janoub Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    },
+    "5": {
+        "Al Thumama Restaurant": {
+            "Beer": 24,
+            "Pepsi": 23,
+            "Water": 24,
+            "Hamburger": 23,
+            "Fish and Chips": 22
+        }
+    },
+    "6": {
+        "Education City Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    },
+    "7": {
+        "Khalifa International Restaurant": {
+            "Beer": 25,
+            "Pepsi": 25,
+            "Water": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    },
+    "8": {
+        "974 Restaurant": {
+            "Pepsi": 25,
+            "Water": 25,
+            "Hamburger": 25,
+            "Fish and Chips": 25
+        }
+    }
+}

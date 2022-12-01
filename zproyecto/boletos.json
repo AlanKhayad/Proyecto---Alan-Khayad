@@ -1,0 +1,79 @@
+{
+    "123": {
+        "nombre": "Alan",
+        "edad": 18,
+        "partido": "3",
+        "tipo_entrada": "VIP",
+        "asiento": "P10",
+        "id_entrada": 356,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": false
+    },
+    "456": {
+        "nombre": "Roberto",
+        "edad": 30,
+        "partido": "1",
+        "tipo_entrada": "VIP",
+        "asiento": "G15",
+        "id_entrada": 960,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": true
+    },
+    "1260": {
+        "nombre": "Walter",
+        "edad": 40,
+        "partido": "1",
+        "tipo_entrada": "VIP",
+        "asiento": "E13",
+        "id_entrada": 632,
+        "precio_ticket": 69.6,
+        "gasto_rest": 39.44,
+        "asistencia": true
+    },
+    "444": {
+        "nombre": "Gustavo",
+        "edad": 19,
+        "partido": "2",
+        "tipo_entrada": "VIP",
+        "asiento": "C18",
+        "id_entrada": 568,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": true
+    },
+    "777": {
+        "nombre": "Fernando",
+        "edad": 19,
+        "partido": "2",
+        "tipo_entrada": "VIP",
+        "asiento": "G20",
+        "id_entrada": 799,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": true
+    },
+    "345": {
+        "nombre": "Custodio",
+        "edad": 88,
+        "partido": "1",
+        "tipo_entrada": "VIP",
+        "asiento": "E17",
+        "id_entrada": 469,
+        "precio_ticket": 139.2,
+        "gasto_rest": 40.6,
+        "asistencia": true
+    },
+    "888": {
+        "nombre": "Saul",
+        "edad": 30,
+        "partido": "1",
+        "tipo_entrada": "VIP",
+        "asiento": "D10",
+        "id_entrada": 149,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": false
+    }
+}

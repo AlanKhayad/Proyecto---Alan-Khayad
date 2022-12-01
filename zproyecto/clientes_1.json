@@ -1,0 +1,46 @@
+{
+    "123": {
+        "nombre": "Alan",
+        "boletos": [
+            "B21",
+            "H3",
+            "P10"
+        ]
+    },
+    "456": {
+        "nombre": "Roberto",
+        "boletos": [
+            "G15"
+        ]
+    },
+    "1260": {
+        "nombre": "Walter",
+        "boletos": [
+            "E13"
+        ]
+    },
+    "444": {
+        "nombre": "Gustavo",
+        "boletos": [
+            "C18"
+        ]
+    },
+    "777": {
+        "nombre": "Fernando",
+        "boletos": [
+            "G20"
+        ]
+    },
+    "345": {
+        "nombre": "Custodio",
+        "boletos": [
+            "E17"
+        ]
+    },
+    "888": {
+        "nombre": "Saul",
+        "boletos": [
+            "D10"
+        ]
+    }
+}
